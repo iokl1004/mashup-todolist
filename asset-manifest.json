@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mashup-todolist/static/css/main.e6c13ad2.css",
+    "main.js": "/mashup-todolist/static/js/main.65596800.js",
+    "static/js/787.e1c90ab9.chunk.js": "/mashup-todolist/static/js/787.e1c90ab9.chunk.js",
+    "index.html": "/mashup-todolist/index.html",
+    "main.e6c13ad2.css.map": "/mashup-todolist/static/css/main.e6c13ad2.css.map",
+    "main.65596800.js.map": "/mashup-todolist/static/js/main.65596800.js.map",
+    "787.e1c90ab9.chunk.js.map": "/mashup-todolist/static/js/787.e1c90ab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.65596800.js"
+  ]
+}
